@@ -1,0 +1,1 @@
+import{j as e}from"./index-DwlmkBOe.js";const a="/rohanbharti.github.io/assets/spacebg-BZ_AvL_T.jpg",t=()=>e.jsx("div",{className:"flex flex-col place-items-center",id:"introcard",style:{height:"120vh",backgroundImage:`url(${a})`,backgroundPosition:"center",backgroundRepeat:"no-repeat",backgroundSize:"cover",zIndex:-100}});export{t as default};
